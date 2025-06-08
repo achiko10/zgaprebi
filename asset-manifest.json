@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zgaprebi/static/css/main.e6c13ad2.css",
+    "main.js": "/zgaprebi/static/js/main.94c38c2c.js",
+    "static/js/453.0bb4407f.chunk.js": "/zgaprebi/static/js/453.0bb4407f.chunk.js",
+    "index.html": "/zgaprebi/index.html",
+    "main.e6c13ad2.css.map": "/zgaprebi/static/css/main.e6c13ad2.css.map",
+    "main.94c38c2c.js.map": "/zgaprebi/static/js/main.94c38c2c.js.map",
+    "453.0bb4407f.chunk.js.map": "/zgaprebi/static/js/453.0bb4407f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94c38c2c.js"
+  ]
+}
